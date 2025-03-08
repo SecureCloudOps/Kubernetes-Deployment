@@ -16,8 +16,10 @@
 ## Introducing Today's Project!
 
 In this project, I will clone a backend application from GitHub, build a Docker image of the backend, and push it to an Amazon ECR repository. I will also troubleshoot installation and configuration errors to enhance my problem-solving skills. This is important because it provides hands-on experience in containerization, cloud-based image storage, and debugging, which are essential skills for cloud and DevOps roles.
-![Image](https://imgur.com/pJnLmz9.png)
+
 ### Tools and concepts
+
+![Image](https://imgur.com/pJnLmz9.png)
 
 I used **Amazon EKS, Git, Docker, and Amazon ECR** to deploy a containerized backend application. Key steps include:  
 1. **Cloning the backend repository** from GitHub using Git.  
